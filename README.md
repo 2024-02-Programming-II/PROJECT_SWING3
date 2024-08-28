@@ -1,18 +1,12 @@
-## Getting Started
+# PROJECT SWING3
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## descripcion
+Este proyecto contiene demostraciones delk manejo de swing
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## actividades
+Modificar el proyecto en el Dashboard.java y ajuste para que los botenes, seimpre esten centrados en el JFrame.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- No se pueden usar laYout
+- Cuando con el mouse se redimensione el tamaño del JFRame, los botones deben ajustar su posicion al centro
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
